@@ -26,9 +26,12 @@ Quantified Achievements:
 2.Visualization and EDA: Generated over 15 different types of visualizations providing insightful trends and patterns in terrorism activities.
 
 Model Performance:
-Achieved a ROC-AUC score of over 0.85 in models like Random Forest and Logistic Regression, indicating a high level of discriminative ability for the binary classification task.
+1.Achieved a ROC-AUC score of over 0.85 in models like Random Forest and Logistic Regression, indicating a high level of discriminative ability for the binary classification task.
 Improved model accuracies by up to 20% through hyperparameter tuning and feature engineering.
-Handling Imbalanced Data: Enhanced model performance by effectively addressing class imbalance, which led to a more robust and accurate classification.
-Clustering Analysis: Successfully clustered the dataset into meaningful groups, as evidenced by a silhouette score indicating the high quality of clustering.
-Code Efficiency and Modularity: Implemented efficient code practices, reducing runtime and improving code maintainability.
+
+2.Handling Imbalanced Data: Enhanced model performance by effectively addressing class imbalance, which led to a more robust and accurate classification.
+
+3.Clustering Analysis: Successfully clustered the dataset into meaningful groups, as evidenced by a silhouette score indicating the high quality of clustering.
+
+4.Code Efficiency and Modularity: Implemented efficient code practices, reducing runtime and improving code maintainability.
 
