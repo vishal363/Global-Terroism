@@ -1,11 +1,16 @@
-Global Terrorism Analysis Project
+# Global Terrorism Analysis Project
 
 Dataset:https://www.kaggle.com/datasets/START-UMD/gtd?resource=download
 
 Project Overview
 The Global Terrorism Analysis Project is a comprehensive data-driven study focused on analyzing and understanding global terrorism trends. Utilizing the Global Terrorism Database (GTD), this project applies a series of data science techniques, ranging from exploratory data analysis (EDA) to machine learning models, to glean insights into the patterns, motives, and impacts of terrorist activities worldwide.
 
-Key Features:
+<img width="783" alt="image" src="https://github.com/vishal363/Global-Terrorism/assets/71640603/b0edc094-17ff-44a0-ab67-3e96345873f5">
+
+<img width="783" alt="image" src="https://github.com/vishal363/Global-Terrorism/assets/71640603/28480eb6-8998-4fd4-b43a-5cfa5bbc54a4">
+
+
+## Key Features:
 1.Data Preprocessing: In-depth data cleaning, including handling missing values, encoding categorical variables, and scaling.
 
 2.Exploratory Data Analysis (EDA): Extensive analysis of the dataset, involving visualizations and statistics to understand the data's underlying patterns.
@@ -20,12 +25,12 @@ Key Features:
 
 7.Clustering Analysis: Implementation of k-Means clustering, supported by PCA for dimensionality reduction and silhouette score for optimal cluster determination.
 
-Quantified Achievements:
+## Quantified Achievements:
 1.Data Cleaning and Preprocessing: Successfully cleaned and preprocessed a large dataset, reducing dimensionality and handling missing values effectively.
 
 2.Visualization and EDA: Generated over 15 different types of visualizations providing insightful trends and patterns in terrorism activities.
 
-Model Performance:
+## Model Performance:
 1.Achieved a ROC-AUC score of over 0.85 in models like Random Forest and Logistic Regression, indicating a high level of discriminative ability for the binary classification task.
 Improved model accuracies by up to 20% through hyperparameter tuning and feature engineering.
 
